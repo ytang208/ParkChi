@@ -1,0 +1,19 @@
+# Xcode user-specific settings
+xcuserdata/
+*.xcuserstate
+
+# Local build output
+DerivedData/
+build/
+*.xcresult
+
+# macOS metadata
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local secrets
+*.env
+.env*
